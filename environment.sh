@@ -1,3 +1,3 @@
 #!/bin/bash
 
-export GHB=https://github.com/xuyuji9000/
+export GHB=git@github.com:xuyuji9000/
